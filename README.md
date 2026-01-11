@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="1200" height="475" alt="ONIX Banner" src="(https://img.freepik.com/premium-vector/technology-digital-artificial-intelligenc-brain-circuit-blue-background-creative-thinking-idea_252172-1352.jpg?semt=ais_hybrid&w=740&q=80)" />
+  <img width="1200" height="475" alt="ONIX Banner" src="https://img.freepik.com/premium-vector/technology-digital-artificial-intelligenc-brain-circuit-blue-background-creative-thinking-idea_252172-1352.jpg?semt=ais_hybrid&w=740&q=80" />
 </div>
 
 # ONIX – AI Image Generator
