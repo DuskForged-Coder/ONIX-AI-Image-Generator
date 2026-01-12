@@ -25,18 +25,3 @@ ONIX is not just an image generator —
 it is a **neural forge where ideas become illuminated visions**.
 
 ---
-
-## Run and deploy your AI Studio app
-
-This repository contains everything you need to run ONIX locally.
-
-View your app in AI Studio:  
-https://ai.studio/apps/drive/XXXXXXXXXXXX
-
-## Run Locally
-
-**Prerequisites:** Node.js
-
-1. Install dependencies:
-   ```bash
-   npm install
